@@ -1,6 +1,6 @@
 {
   "engines": {
-    "node": "20.9.0"
+    "node": "v18.19.0"
   },
   "name": "full-stack-project",
   "version": "1.0.0",
